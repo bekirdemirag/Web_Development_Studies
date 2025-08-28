@@ -1,6 +1,10 @@
-HTML dersleri,
+Firstly HTML;
+
 heading <h1> </h1>
 paragraph <p> </p>
 <hr /> horizontal rule çeker
 <br /> bu da paragraph içinde alt satıra atlatır.
-evden
+
+https://www.diffchecker.com/  aradaki farkları bulmak adına önemlidir.
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements HTML Tags
+https://www.w3schools.com/
