@@ -8,3 +8,11 @@ paragraph <p> </p>
 https://www.diffchecker.com/  aradaki farkları bulmak adına önemlidir.
 https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements HTML Tags
 https://www.w3schools.com/
+
+29.08.2025:
+<ul>  </ul> sırasız listeleme 
+yukarıdkai sırasız liste arasına list item eklenebilir;
+<li>  </li>
+<ol>  </ol> sıralı liste
+yine arasına <li>  </li> şeklinde sıralama yapılabilir.
+Bunları kullanarak iç içe listeler (sıralı/sırasız) 
