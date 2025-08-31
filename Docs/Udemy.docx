@@ -2,8 +2,8 @@ Firstly HTML;
 
 heading <h1> </h1>
 paragraph <p> </p>
-<hr /> horizontal rule çeker
-<br /> bu da paragraph içinde alt satıra atlatır.
+<hr /> horizontal rule çeker. void element
+<br /> bu da paragraph içinde alt satıra atlatır. void element
 
 https://www.diffchecker.com/  aradaki farkları bulmak adına önemlidir.
 https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements HTML Tags
@@ -15,4 +15,22 @@ yukarıdkai sırasız liste arasına list item eklenebilir;
 <li>  </li>
 <ol>  </ol> sıralı liste
 yine arasına <li>  </li> şeklinde sıralama yapılabilir.
-Bunları kullanarak iç içe listeler (sıralı/sırasız) 
+Bunları kullanarak iç içe listeler (sıralı/sırasız)
+
+31.08.2025:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a
+
+Hyperlink verme işlemi "href" ve "a" ANCHOR TAG
+<li><a href="https://www.wikipedia.org">Wikipedia</a></li>
+
+<img src="url"/> şeklinde image ekleme yapabiliriz. void element
+alt="..." alternative tag eklemek bir seçenektir. (Örn: 3.3) bu detay vermek adına önemli olabilir. Image hakkında bilgi vermek.
+3.4 örnek proje (şimdiye kadar ki işler)
+
+dosya dizinleri ile çalışma yaparken;
+./ ile kodun bulunduğu dizinde gezinebiliriz.
+../bir üst dizine gidebiliriz. 
+Relative Path olarak geçmektedir.
+
+<a href="./xxx/xxxx.html"><img src="xxxxxx" /></a> şeklinde alternatif yapıldı. (4.1)
+
