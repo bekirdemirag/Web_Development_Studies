@@ -32,5 +32,10 @@ dosya dizinleri ile çalışma yaparken;
 ../bir üst dizine gidebiliriz. 
 Relative Path olarak geçmektedir.
 
-<a href="./xxx/xxxx.html"><img src="xxxxxx" /></a> şeklinde alternatif yapıldı. (4.1)
+<a href="./xxx/xxxx.html"><img src="xxxxxx" /></a> şeklinde alternatif yapıldı. (4.1 örneği detaylı olarak anlatmaktadır.)
 
+HTML Boilerplate genel HTML görünümü, ! işareti ile kısayolu ile oluşturulabilir.
+
+HTML Boilerplate yapısı Örnek 4.2 klasöründe olduğu gibidir. HTML TEMEL YAPISI
+
+4.3 kısmında genel proje ile ilgili detaylar mevcut... buraya kadar olan kısmın genel tekrarı gibi düşünülebilir.
